@@ -5,11 +5,11 @@ Use random forest model to make this prediction. The code and the model is quite
 is the process of I training and get scores on public leaderboard.
 
 ## generate_result.ipynb file
-is to save your time and generate the private leaderboard scores. To achieve it, all you need to do is to change the test file in the corresponding line. Then run this .ipynb file all over. The "sub_private.csv" is the target file.
+is to save your time and generate the private leaderboard scores. To achieve it, all you need to do is to change the test file in the corresponding line. Then run this .ipynb file all over. The "sub.csv" is the target file.
 
 ## model.pkl
 is the pre_trained_model to save your time and simply test.
 
-## sub_public.csv file is not the target file you want for private leaderboard
+## sub_public.csv file is NOT the target file you want for private leaderboard
 It is just the result file in public board in which I got the scores higher than the baseline. 
 ## *If the generate_result.ipynb is not working(with slight chance),you may need to run the original_code.ipynb all over.
