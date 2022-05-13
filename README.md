@@ -4,7 +4,7 @@ Use random forest model to make this prediction. The code and the model is quite
 ## The MSBD5001_original_code.ipynb file 
 is the process of I training and get scores on public leaderboard.
 
-## generate_result.ipynb file
+## generate_result_on_private_leaderboard.ipynb file
 is to save your time and generate the private leaderboard scores. To achieve it, all you need to do is to change the test file in the corresponding line. Then run this .ipynb file all over. The "sub.csv" is the target file.
 
 ## model.pkl
